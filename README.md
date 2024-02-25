@@ -1,3 +1,5 @@
+Приложение для управления задачами
+
 Паттерны проектирония и GoF паттерны в Spring приложении:
 
 TaskmanagementApplication - приложение Spring Boot
